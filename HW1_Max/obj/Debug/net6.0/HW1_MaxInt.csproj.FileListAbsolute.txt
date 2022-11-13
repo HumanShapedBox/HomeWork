@@ -1,0 +1,15 @@
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/bin/Debug/net6.0/HW1_MaxInt
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/bin/Debug/net6.0/HW1_MaxInt.deps.json
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/bin/Debug/net6.0/HW1_MaxInt.runtimeconfig.json
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/bin/Debug/net6.0/HW1_MaxInt.dll
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/bin/Debug/net6.0/ref/HW1_MaxInt.dll
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/bin/Debug/net6.0/HW1_MaxInt.pdb
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.csproj.AssemblyReference.cache
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.GeneratedMSBuildEditorConfig.editorconfig
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.AssemblyInfoInputs.cache
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.AssemblyInfo.cs
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.csproj.CoreCompileInputs.cache
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.dll
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/ref/HW1_MaxInt.dll
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.pdb
+/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/Debug/net6.0/HW1_MaxInt.genruntimeconfig.cache
