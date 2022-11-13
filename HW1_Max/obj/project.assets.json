@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/HW1_MaxInt.csproj",
+      "projectUniqueName": "/home/humanbox/Рабочий стол/Homework/HW1_Max/HW1_MaxInt.csproj",
       "projectName": "HW1_MaxInt",
-      "projectPath": "/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/HW1_MaxInt.csproj",
+      "projectPath": "/home/humanbox/Рабочий стол/Homework/HW1_Max/HW1_MaxInt.csproj",
       "packagesPath": "/home/humanbox/.nuget/packages/",
-      "outputPath": "/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/obj/",
+      "outputPath": "/home/humanbox/Рабочий стол/Homework/HW1_Max/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/humanbox/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l0LeAV2numvZMKQ+Z6j/WI/Stoj2D2q1oist0gPJSPKNmILpsr58IWLiWwI61u+upusO+5mjdw0y+Wv7ZV8wqA==",
+  "dgSpecHash": "pfD03utDmbM2aOAnTDCmcYKJFW0Z5jQtbAcgDDuqtzzgXWLm533jDyTl08COvwRLyBb/aKUQsmn/8rfoA8L0Kw==",
   "success": true,
-  "projectFilePath": "/home/humanbox/Рабочий стол/Homework/HW1_MaxInt/HW1_MaxInt.csproj",
+  "projectFilePath": "/home/humanbox/Рабочий стол/Homework/HW1_Max/HW1_MaxInt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
