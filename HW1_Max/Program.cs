@@ -5,9 +5,23 @@ Console.WriteLine("Введите второе число: ");
 int b = Convert.ToInt32(Console.ReadLine());
 
 int max = a;
+int min = b;
 
-if(a > max) max = a;
-if(b > max) max = b;
-
-Console.Write("max = ");
-Console.WriteLine(max);
+if(b > max) 
+{
+    max = b;
+    min = a;
+    Console.Write("max = ");
+    Console.WriteLine(max);
+    Console.Write("min = ");
+    Console.WriteLine(min);
+}
+else 
+{
+    max = a;
+    min = b;
+    Console.Write("max = ");
+    Console.WriteLine(max);
+    Console.Write("min = ");
+    Console.WriteLine(min);
+}
