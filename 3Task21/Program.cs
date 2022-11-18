@@ -22,10 +22,7 @@ int zb = Convert.ToInt32(Console.ReadLine());
 
 double Distance(int x1, int y1, int z1, int x2, int y2, int z2)
 {
-    double xAxis = (x1 - x2) * (x1 - x2);
-    double yAxis = (y1 - y2) * (y1 - y2);
-    double ZAxis = (z1 - z2) * (z1 - z2);
-    double result = Math.Sqrt(xAxis + yAxis + ZAxis);
+    double result = Math.Sqrt(((x1 - x2) * (x1 - x2)) + ((y1 - y2) * (y1 - y2)) + ((z1 - z2) * (z1 - z2)));
     return result;
 }
 
