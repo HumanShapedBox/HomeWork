@@ -4,14 +4,14 @@
 
 Console.WriteLine("Введите пятизначное число (12345): ");
 int num = Convert.ToInt32(Console.ReadLine());
-int digit = 0;
-int nReverse = 0;
 int reverse = Reverse(num);
 if(num > 9999 && num < 100000) Console.WriteLine(Palindrome(num, reverse) ? "Число является палиндромом" : "Число не является палиндромом");
 else Console.WriteLine("Некорректный ввод");
 
 int Reverse(int number)
 {
+    int digit = 0;
+    int nReverse = 0;
     while(number > 0)
     {
         digit = number % 10;
