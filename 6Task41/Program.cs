@@ -41,7 +41,7 @@ int PositiveNumbers(int[] arr)
 
 Console.WriteLine("Эта программа сможет найти все положительные целые числа в ряду. Сколько чисел Вы хотите ей задать?");
 int size = Convert.ToInt32(Console.ReadLine());
-if(size < 0) 
+if (size < 0)
 {
     size *= -1;
     Console.WriteLine("Некорректный ввод: требуется положительное число. Введённые данные откорректированы.");
