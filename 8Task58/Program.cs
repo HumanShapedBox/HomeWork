@@ -32,11 +32,7 @@ void PrintMatrix(int[,] matrix)
     for (int i = 0; i < matrix.GetLength(0); i++)
     {
         Console.Write("|");
-        for (int j = 0; j < matrix.GetLength(1); j++)
-        {
-            if (j < matrix.GetLength(1) - 1) Console.Write($"{matrix[i, j],4}, ");
-            else Console.Write($"{matrix[i, j],4} ");
-        }
+        for (int j = 0; j < matrix.GetLength(1); j++) Console.Write($"{matrix[i, j],4} ");
         Console.WriteLine("|");
     }
 }
@@ -68,6 +64,7 @@ int MinSumRow(int[] arr)
         }
     return index;
 }
+
 int[,] array = CreateMatrixRndInt(5, 3, 0, 10);
 PrintMatrix(array);
 int[] sumRow = RowSum(array);
