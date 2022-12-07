@@ -71,5 +71,5 @@ int MinSumRow(int[] arr)
 int[,] array = CreateMatrixRndInt(5, 3, 0, 10);
 PrintMatrix(array);
 int[] sumRow = RowSum(array);
-int minimalSumRowIndex = MinSumRow(sumRow);
-Console.WriteLine($"Номер строки с наименьшей суммой элементов -> {minimalSumRowIndex}");
+int minimalSumRowNumber = MinSumRow(sumRow);
+Console.WriteLine($"Номер строки с наименьшей суммой элементов -> {minimalSumRowNumber}");
