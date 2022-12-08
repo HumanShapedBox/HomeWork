@@ -8,7 +8,7 @@
 // 34(1,0,0) 26(1,0,1) 41(1,1,0) 55(1,1,1)
 
 
-int[] CreateArrayRndInt (int size, int min, int max)
+int[] CreateArray (int size, int min, int max)
 {
     int[] arr = new int[size];
     for(int i = 0; i < arr.Length; i++)
@@ -66,7 +66,7 @@ void Print3DMatrix(int[,,] matrix)
 }
 
 
-int[] availableNumbers = CreateArrayRndInt (90, 10, 100);
+int[] availableNumbers = CreateArray (90, 10, 100);
 Shuffle(availableNumbers);
 int[,,] matrix3D = Create3DMatrix(2, 2, 2, availableNumbers);
 Print3DMatrix(matrix3D);
