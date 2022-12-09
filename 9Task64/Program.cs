@@ -7,13 +7,13 @@
 Console.WriteLine("Введите натуральное число: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-ShowNumbers(num);
-Console.WriteLine();
+if(num < 0) Console.WriteLine("Некорректный ввод");
+else ShowNumbers(num);
 
 void ShowNumbers(int num)
 {
     if(num == 0) return;
-    if(num == 1) Console.Write($"{num}");
+    if(num == 1) Console.WriteLine($"{num}");
     else
     {
         Console.Write($"{num}, ");
